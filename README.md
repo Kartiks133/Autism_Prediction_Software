@@ -26,12 +26,16 @@ A **machine learning-based demo app** that predicts the likelihood of autism bas
 ## **🚀 How to Run Locally**
 
 1. **Clone this repository**
+
      git clone (https://github.com/Kartiks133/Autism_Prediction_Software.git)
 2. **Navigate to the project folder**
+
      cd autism-prediction-app
 3. **Install dependencies**
+
      pip install -r requirements.txt
 4. **Run the Streamlit app**
+
      streamlit run autism_app.py
 
 
